@@ -6,4 +6,4 @@ Presentation: https://docs.google.com/presentation/d/1vviPKZXg0wCLoqMLiWZSr4oE_D
 
 Video: https://drive.google.com/file/d/1Xne7h6jK9RS5JjAj1gme2KmXLlRmjYdz/view?usp=sharing
 
-Project Report: [CMPE - 297 Project Report.pdf](https://github.com/sarjakpatel/HouseInteriorPrediction/files/10165308/CMPE.-.297.Project.Report.pdf)
+Project Report: [CMPE - 297 Project Report.docx](https://github.com/sarjakpatel/HouseInteriorPrediction/files/10173075/CMPE.-.297.Project.Report.docx)
