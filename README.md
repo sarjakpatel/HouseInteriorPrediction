@@ -5,7 +5,7 @@
 https://colab.research.google.com/drive/1I9Q8ATkqAy2orBNACy7DEsf8253C_lzw?usp=sharing
 
 <h3>b. MLOPS Documentation Link</h3>
-https://docs.google.com/document/d/1NEIAK7hr5mD-5Hvs45AQFKGzcAKyivGoii8YpUjfYDc/edit?usp=sharing
+https://docs.google.com/document/d/1k80GpXL3A8eFlSq4v2SJvYqfzquOKkcD/edit?usp=sharing&ouid=116280344844274886790&rtpof=true&sd=true
 
 <h3>c. Presentation Link</h3>
 https://docs.google.com/presentation/d/1vviPKZXg0wCLoqMLiWZSr4oE_D_Ctmmm/edit?usp=sharing&ouid=102256334961011033926&rtpof=true&sd=true
